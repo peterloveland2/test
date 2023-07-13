@@ -1,6 +1,6 @@
 {
     "Parameters": {
-        "env": {
+        "enviro": {
             "Type": "String",
             "Default": "NONE"
         },
